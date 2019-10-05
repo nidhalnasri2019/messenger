@@ -1,0 +1,174 @@
+.header{
+    height: 36px;
+    background-color: #0e9cef;
+    margin-top: -8px;
+}
+.messenger{
+    color: white;
+   
+    font-family: sans-serif;
+    font-weight: 800;
+    margin-left: 8px;
+}
+.row{
+    display:flex;
+} 
+.container1{
+    border-right-style: groove;
+    border-width: 1px;
+    width: 23%;
+  
+}
+.profile{
+    margin-top: 16px;
+    margin-bottom: 12px;
+}
+#img-profile{
+    width: 66px
+}
+.disc{
+    font-size: 26px;
+    font-family: sans-serif;
+}
+.search{
+    background-color: #dedcdc;
+    border-radius: 17px;
+    border-color: transparent;
+    height: 22px;
+    margin-top: 16px;
+
+}
+.discution{
+    margin-top: 1%;
+ 
+   
+}
+.img-discution{
+    border-radius: 50%;
+    height: 48px;
+}
+.nom-disc{
+    margin-left: 15px;
+    font-family: sans-serif;
+    color: #62628c;
+}
+.date{
+    color: #64c2d8;
+   
+}
+#date1{margin-left: 71px;}#date2{margin-left:40px}#date3{margin-left: 45px;}#date4{
+    margin-left: 78px;}#date5{ margin-left: 50px;}#date6{ margin-left: 74px}#date7{margin-left: 45px;}#date8{margin-left: 70px;}#date9{margin-left: 78px;}
+.container2{
+    border-right-style: groove;
+    border-width: 1px;
+    width: 49%;
+}
+.fb{
+    height: 70px;
+    border-bottom-style: groove;
+    border-width: 1px;
+}
+.facebook{
+    margin-left: 355px;
+    color: #c5baba;
+    font-size: 20px;
+    margin-bottom: 1%;
+}
+.img-ligne{
+    height: 57px;
+    border-radius: 63%;
+    width: 10%;
+    margin-top: 4px;
+    margin-left: 6px;
+}
+.msg{
+  
+    height: 510px;
+    margin-top: 21px;
+    margin-left: 13px;
+}
+.type-msg{
+    border-top-style: groove;
+    border-width: 1px;
+}
+.img-discution1{
+    border-radius: 50%;
+    height: 48px;
+}
+.img-discution2,.img-discution1{
+    border-radius: 50%;
+    height: 31px;
+    width: 31px;
+   
+}
+.conversation1{
+    margin-left: 14px;
+    background-color: #e0dede;
+    border-radius: 5px;
+}
+.conversation2{
+    height: -5px;
+    margin-left: 547px;
+    background-color: #2b93ec;
+    border-radius: 5px;
+    color: white;
+}
+.conversation{
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.con{
+    margin-left: 570px;
+}
+.svg{
+    margin-top: 12px;
+    margin-left: 10px;
+
+}
+.type{
+    border-color: transparent;
+    margin-left: 9px;
+    height: 53px;
+    width: 591px;
+    background-color: #dedcdc;
+    border-radius: 17px;
+}
+
+.container3{
+    
+}
+.svg2{
+    margin-left: 244px;
+    margin-top: 13px;
+}
+.call{
+    height: 57px;
+    border-bottom-style: groove;
+    border-width: 1px;
+}
+.img-final{
+    margin-top: 40px;
+    margin-left: 100px;
+    height: 132px;
+    width: 152px;
+    border-radius: 50%;
+}
+.nom-final{
+    font-size: 27px;
+    font-family: cursive;
+    margin-left: 105px;
+
+}
+.nom-final2{
+    font-family: initial;
+    margin-left: 131px;
+    color: grey;
+
+}
+
+.option{
+    width: 100%;
+    height: 77px;
+    background-color: #efefef;
+    margin-top: -18px;
+}
